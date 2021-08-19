@@ -1,4 +1,4 @@
-package com.anshapro.element;
+package com.anshapro.utils;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
